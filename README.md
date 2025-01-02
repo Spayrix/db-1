@@ -4,7 +4,7 @@ Bu proje, hedef kitle analizi ve pazarlama kampanyalarını yönetmek amacıyla 
 ## Proje Amacı
  Bu sistem, şirketlerin müşteri verilerini analiz ederek doğru hedef kitleye pazarlama yapmalarına yardımcı olur. Kullanıcıların davranışlarını ve etkileşimlerini izleyerek, en verimli pazarlama stratejilerini oluşturmayı amaçlar. Ayrıca, kullanıcıların ödeme işlemleri, ürün satın alma geçmişi ve kampanyalara katılımı gibi verileri analiz ederek kişiselleştirilmiş teklifler sunar.
 
-Özellikler
+## Özellikler
 - Kullanıcı Yönetimi: Kullanıcı kayıtları, giriş işlemleri, şifre sıfırlama ve hesap düzenlemeleri yapılabilir.
 - Adres Yönetimi: Kullanıcılar, teslimat adreslerini ekleyip düzenleyebilirler.
 - Ürün Yönetimi: Ürünler, kategoriler ve fiyatlar yönetilebilir.
@@ -20,6 +20,11 @@ Bu proje, hedef kitle analizi ve pazarlama kampanyalarını yönetmek amacıyla 
 - Frontend: HTML, CSS, JavaScript (Bootstrap)
 - Diğer: Google Maps API, Payment Gateway API (Stripe/PayPal)
 - Veritabanı Tabloları
+  
+## Teknolojiler
+- Veritabanı: MySQL (utf8mb4_unicode_ci)
+- Backend Framework: Laravel
+- Frontend: HTML, CSS, JavaScript (Bootstrap)
   
 ## Aşağıda proje için oluşturulmuş bazı temel veritabanı tabloları ve ilişkiler bulunmaktadır:
 
