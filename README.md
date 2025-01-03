@@ -15,10 +15,9 @@ Bu proje, hedef kitle analizi ve pazarlama kampanyalarını yönetmek amacıyla 
 - Kampanya Yönetimi: Pazarlama kampanyaları oluşturulabilir ve bu kampanyaların performansı analiz edilebilir.
 - Kullanıcı Etkinlik Takibi: Kullanıcıların sitedeki etkinlikleri (örneğin, ürün görüntüleme, satın alma) kaydedilir.
 - Teknolojiler
-- Veritabanı: MySQL (utf8mb4_unicode_ci)
+- Veritabanı: MySQL 
 - Backend Framework: Laravel
 - Frontend: HTML, CSS, JavaScript (Bootstrap)
-- Diğer: Google Maps API, Payment Gateway API (Stripe/PayPal)
 - Veritabanı Tabloları
   
 ## Teknolojiler
